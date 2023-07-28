@@ -1,1 +1,3 @@
 creacion de nuevo el documento
+
+mostrando don diff desde la terminal / example
