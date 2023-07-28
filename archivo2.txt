@@ -1,3 +1,5 @@
 examinando el commit
 
 segunda modificacion del commit
+
+tercera modificacion para aprender la formula arternativa de subor el commit
